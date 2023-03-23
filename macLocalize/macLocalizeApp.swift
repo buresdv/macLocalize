@@ -8,9 +8,12 @@
 import SwiftUI
 
 @main
-struct macLocalizeApp: App {
-    var body: some Scene {
-        WindowGroup {
+struct macLocalizeApp: App
+{
+    var body: some Scene
+    {
+        WindowGroup
+        {
             ContentView()
         }
     }
